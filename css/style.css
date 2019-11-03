@@ -67,6 +67,12 @@ form input {
     margin-bottom: 10px;
 }
 
+form select {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
 form button {
     display: block;
     margin: 0 auto;
